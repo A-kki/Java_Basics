@@ -1,7 +1,36 @@
-- 👋 Hi, I’m @A-kki
-- I'm a B.Tech student in Computer Science and Information Technology, currently in my 5th semester. I'm passionate about solving real-world problems with code and turning ideas into scalable solutions. Whether it's exploring algorithms, building full-stack applications, or diving into Web3 projects, I'm always up for the challenge.
+# ☕ Basic Java Programs
 
-<!---
-A-kki/A-kki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains a collection of **basic Java programs** designed to help beginners understand the **core concepts of Java programming**.  
+Each program focuses on a specific topic — from simple syntax and control structures to object-oriented programming fundamentals.
+
+---
+
+## 📚 Contents
+
+| Folder / File | Description |
+|----------------|-------------|
+| `HelloWorld.java` | First Java program — prints "Hello, World!" |
+| `Variables.java` | Demonstrates variable declaration and data types |
+| `Operators.java` | Examples of arithmetic, relational, and logical operators |
+| `ControlStatements.java` | If-else, switch-case, and looping structures |
+| `Functions.java` | Defining and calling methods in Java |
+| `Arrays.java` | Working with single and multidimensional arrays |
+| `Strings.java` | Common string operations |
+| `OOPConcepts/` | Programs related to Object-Oriented Programming (classes, objects, inheritance, etc.) |
+| `ExceptionHandling.java` | Demonstrates try-catch-finally and exceptions |
+| `FileHandling.java` | Reading and writing files in Java |
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/basic-java-programs.git
+2. **Navigate to the folder**
+      cd Java_Basics
+3. **Compile the Java file**
+     javac FileName.java
+4.**Run the program**
+   java FileName
+
